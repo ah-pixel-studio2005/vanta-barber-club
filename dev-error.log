@@ -1,0 +1,11 @@
+Detected multiple renderers concurrently rendering the same context provider. This is currently unsupported.
+Detected multiple renderers concurrently rendering the same context provider. This is currently unsupported.
+Detected multiple renderers concurrently rendering the same context provider. This is currently unsupported.
+Detected multiple renderers concurrently rendering the same context provider. This is currently unsupported.
+Detected multiple renderers concurrently rendering the same context provider. This is currently unsupported.
+[31mfailed to load config from C:\Users\angel\Downloads\Code_AHPIXELSTUDIO\vanta-barber-club\vite.config.ts[39m
+[2m12:41:38 a. m.[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+
+[31m[JSON_PARSE] [0mexpected value at line 1 column 1
+
+[2m12:41:38 a. m.[22m [31m[1m[vite][22m[39m server restart failed
