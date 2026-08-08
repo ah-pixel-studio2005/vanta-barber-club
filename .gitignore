@@ -38,3 +38,6 @@ yarn-error.log*
 /.wrangler/
 /outputs/
 /work/
+dev.log
+dev-error.log
+polish-*.png
