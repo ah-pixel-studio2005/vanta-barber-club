@@ -1,5 +1,3 @@
-@import "tailwindcss";
-
 :root { --black:#090909; --charcoal:#151515; --ivory:#f4f1ea; --gold:#c6a15b; --line:rgba(244,241,234,.16); --ink:#141414; }
 *{box-sizing:border-box} html{scroll-behavior:smooth;background:var(--black);overflow-x:hidden} body{margin:0;background:var(--black);color:var(--ivory);font-family:Arial,"Helvetica Neue",sans-serif;-webkit-font-smoothing:antialiased} body,button,input,select,textarea{font-family:Arial,"Helvetica Neue",sans-serif} a{color:inherit;text-decoration:none} img{display:block;width:100%;object-fit:cover} button{color:inherit} ::selection{background:var(--gold);color:var(--black)}
 h1,h2,h3,p,figure,blockquote{margin:0} h1,h2{font-family:Georgia,"Times New Roman",serif;font-weight:400;text-transform:uppercase;letter-spacing:-.055em;line-height:.88} h1 em,h2 em{font-weight:400;text-transform:none}
